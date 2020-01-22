@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 FactoryBot.define do
   factory :transfer do
     user # create an user if you don't specify some existent user
